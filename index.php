@@ -1,3 +1,2 @@
-AWS OpsWorks Win!
-Opswork is really awesome.............!!!!
+AWS .... Win! on $(uname -n)
 <?php php_info(); ?>
