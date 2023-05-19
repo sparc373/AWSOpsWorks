@@ -1,2 +1,2 @@
-AWS .... Win! on $(uname -n)
+AWS .... Win!!!!
 <?php php_info(); ?>
